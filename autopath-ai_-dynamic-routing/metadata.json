@@ -1,0 +1,5 @@
+{
+  "name": "AutoPath AI: Dynamic Routing",
+  "description": "A visualization of dynamic path planning for autonomous vehicles using improved DQN-RLPSO algorithms with multi-constraint optimization, based on real-time congestion avoidance research.",
+  "requestFramePermissions": []
+}
